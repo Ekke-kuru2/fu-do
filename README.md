@@ -1,5 +1,7 @@
 # fu-do
 
+To-do list with magic sorting in the style of [howm](https://howm.osdn.jp/)
+
 ## Build Setup
 
 ```bash
